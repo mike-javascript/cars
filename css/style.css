@@ -1,0 +1,55 @@
+#main {
+    background-color: #f0f8ff;
+    padding: 50px;
+}
+
+#formDiv {
+    background-color: #cdecb8c7;
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    display: none;
+}
+.formElements {
+    width: 100%;
+    margin: 10px;
+}
+
+#showHide {
+    padding: 10px;
+    width: 500px;
+    height: 60px;
+    margin: 0px auto 50px auto;
+    display: block;
+    font-size: 20px
+
+}
+
+.eachCar {
+    width: 500px;
+    height: 200px;
+    margin: 10px auto;
+    padding: 10px 30px;
+    position: relative;
+    background-color: rgba(176, 229, 250, 0.774);
+}
+
+img {
+    width: 150px;
+    float: left;
+    margin: 0 auto;
+}
+
+.make {
+    width: 100px;
+    float: left;
+    margin: 0 50px;
+    font-size: 30px;
+}
+
+.model {
+    width: 100px;
+    float: left;
+    margin: 0 50px;
+}
+
